@@ -1,6 +1,3 @@
-# Object-Oriented-Programming
-Developed a pharmacy management system with multi-class architecture, data management, and an interactive console interface.
-
 # Pharmacy Management System
 
 A Java-based management system for handling medicines, patients, doctors, and medical prescriptions. [cite_start]This project was developed as part of the **PLH 102 - Object-Oriented Programming** course at the **Technical University of Crete** (Spring 2022)[cite: 1, 3, 4].
